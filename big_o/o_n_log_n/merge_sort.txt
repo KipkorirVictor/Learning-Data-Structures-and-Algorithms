@@ -1,0 +1,19 @@
+# define a merge sort function that takes in one array
+# check if array length is less than or equal to 1, if so return array as is
+# define mid as half array length
+# divide the array into left array and right array, 
+# recursively call the merge sort algorithm with the left array and the right array and store the result in left and right sorted arrays
+# return the merge function and to it pass two arrays the sorted right and left arrays
+
+# define a merge function that takes in 2 arrays
+# initialize an empty array, sorted_array to store sorted elements
+# initialize counters, i and j at value, 0
+# write a while loop that checks that both the left and right arrays have a length greater than zero
+# in the loop check for which elements at index i and j for left and right respectively is smaller (if else)
+# append the smaller element to the  sorted_array
+# increment counter for respective smaller element array
+# extend the sorted elements with any remaining values past the counters 
+# return the sorted array
+
+# test with a unsorted array
+# print out the sorted array
