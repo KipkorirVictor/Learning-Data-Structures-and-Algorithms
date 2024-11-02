@@ -20,7 +20,7 @@ Big O notation is a mathematical representation that describes the efficiency or
 
 5. **O(n²) - Quadratic Time Complexity:**
    - The runtime grows proportionally to the square of the input size.
-   - Example: Nested loops in a bubble sort for an array.
+   - Example: Nested loops in a bubble sort for an array. 
 
 6. **O(n³) - Cubic Time Complexity:**
    - The runtime grows proportionally to the cube of the input size.
